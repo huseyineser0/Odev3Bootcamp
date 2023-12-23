@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="toolbar">#EF6C00</color>
+    <color name="statusbar">#E65100	</color>
+    <color name="statusbarnight">#000000</color>
+    <color name="yazirenk">#9F9F9F
+    </color>
+</resources>
